@@ -34,5 +34,11 @@ THEN I am again presented with current and future conditions for that city
 
 # Links 
 
+https://github.com/FebaAlex/Weather-App.git
+https://febaalex.github.io/Weather-App/
 
 # Landing Page
+
+![Image 5-1-22 at 1 06 PM](https://user-images.githubusercontent.com/98286810/166162771-2a17555d-ba2b-4ea2-a9cf-6428e0c86a8b.jpg)
+
+
